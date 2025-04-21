@@ -1,10 +1,6 @@
-# 0.96-OLED-Display-Setup
-Setup 0.96'" OLED Display with ESP32
-
 # ESP32 OLED Display Configuration
 
-![OLED Display](![Uploading PXL_20250421_080541696.jpg…]()
-) *(upload an image later)*
+![OLED Display](images/display.jpg) *(upload an image later)*
 
 This project demonstrates how to interface a 0.96" OLED display (SSD1306) with ESP32 using SPI.
 
